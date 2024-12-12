@@ -17,4 +17,7 @@ def test_potencia():
 def test_modulo():
     assert 2 % 2 == 0
 
+def test_division_entera():
+    assert 2 // 2 == 1
+
 
